@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CIT 195 Lesson 4 Private Multiple Objects", "CIT 195 Lesson 4 Private Multiple Objects.csproj", "{54225DDE-60EC-4460-A0B0-9A2D05F3AF9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54225DDE-60EC-4460-A0B0-9A2D05F3AF9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54225DDE-60EC-4460-A0B0-9A2D05F3AF9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54225DDE-60EC-4460-A0B0-9A2D05F3AF9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54225DDE-60EC-4460-A0B0-9A2D05F3AF9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56C1FFB3-D3AF-4EE5-A07C-0AA9A5DC7569}
+	EndGlobalSection
+EndGlobal
